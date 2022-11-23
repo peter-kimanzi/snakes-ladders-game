@@ -13,3 +13,6 @@ snakes ladders game using JavaScript and Gsap
 ## Live link
 
 
+## Screenshot
+
+
