@@ -15,4 +15,4 @@ snakes ladders game using JavaScript and Gsap
 
 ## Screenshot
 
-
+![snake](https://user-images.githubusercontent.com/71552773/203475338-0fb190cc-34e6-4017-bfbc-47c31ea5382a.PNG)
