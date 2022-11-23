@@ -7,5 +7,6 @@ snakes ladders game using JavaScript and Gsap
 
 * HTML
 * CSS
+* JavaScript
 
 
