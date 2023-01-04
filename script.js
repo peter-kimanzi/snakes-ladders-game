@@ -115,7 +115,15 @@ const walk = () => {
 }
 
 const showWinner = () => {
-	setPlayerID('is the winner!');
+
+	const messageElement = document.getElementsByClassName("playerName")[0]
+
+	if (messageElement.innerText === 'You') {
+		messageElement.innerText += ' are the winner';
+	} else {
+		messageElement.innerText += ' is the winner';
+	}
+
 	resetGameBtn.classList.remove('hidden');
 }
 
