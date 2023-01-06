@@ -224,4 +224,4 @@ const drawObstacles = () => {
 		ctx.closePath();
 	}
 }
-// drawObstacles();
+drawObstacles();
